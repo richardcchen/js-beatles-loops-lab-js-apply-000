@@ -18,8 +18,10 @@ function johnLennonFacts(facts){
 
 function iLoveTheBeatles(number){
   var newarray = [];
+  let i = 0;
   do {
     newarray[i] = "I love the Beatles!";
     number++;
+    i++;
   }while(number < 15);
 } 
