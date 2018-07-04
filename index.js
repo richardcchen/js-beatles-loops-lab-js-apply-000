@@ -9,7 +9,7 @@ function theBeatlesPlay(musicans, instruments){
 
 function johnLennonFacts(facts){
   let i = 0;
-  while(i < fact.length){
+  while(i < facts.length){
     facts[i] = `${facts[i]}!!!`
   }
   return facts;
