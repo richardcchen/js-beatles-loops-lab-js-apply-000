@@ -15,3 +15,11 @@ function johnLennonFacts(facts){
   }
   return facts;
 }
+
+function iLoveTheBeatles(number){
+  var newarray = [];
+  let i = 0;
+  do {
+    
+  }
+}
