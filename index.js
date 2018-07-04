@@ -20,6 +20,5 @@ function iLoveTheBeatles(number){
   var newarray = [];
   let i = 0;
   do {
-    
-  }
-}
+    newarray[i] = "I love the Beatles!";
+} while
